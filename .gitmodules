@@ -1,0 +1,3 @@
+[submodule "fan-support"]
+	path = fan-support
+	url = https://github.com/neg2led/cm4io-fan
